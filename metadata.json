@@ -1,0 +1,9 @@
+{
+  "name": "Copy of  مستر مصر",
+  "description": "A robust, scalable English educational platform using IndexedDB for handling large media files and advanced student tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
